@@ -1,8 +1,9 @@
 <NotepadPlus>
     <Session activeView="0">
-        <mainView activeIndex="1">
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="600" startPos="516" endPos="516" selMode="0" lang="PHP" encoding="-1" filename="D:\laragon\www\blog\routes\web.php" backupFilePath="" originalFileLastModifTimestamp="1556943947" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="81" mapWrapIndentMode="-1" mapIsWrap="no" />
+        <mainView activeIndex="2">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="600" startPos="487" endPos="487" selMode="0" lang="PHP" encoding="-1" filename="D:\laragon\www\blog\routes\web.php" backupFilePath="" originalFileLastModifTimestamp="1556956886" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="81" mapWrapIndentMode="-1" mapIsWrap="no" />
             <File firstVisibleLine="70" xOffset="0" scrollWidth="744" startPos="260" endPos="260" selMode="0" lang="PHP" encoding="-1" filename="D:\laragon\www\blog\resources\views\about.blade.php" backupFilePath="" originalFileLastModifTimestamp="1556943555" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="352" startPos="126" endPos="126" selMode="0" lang="PHP" encoding="-1" filename="D:\laragon\www\blog\app\Http\Controllers\PagesController.php" backupFilePath="D:\laragon\bin\notepad++\backup\PagesController.php@2019-05-04_160428" originalFileLastModifTimestamp="1556956923" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no" />
         </mainView>
         <subView activeIndex="0" />
     </Session>
