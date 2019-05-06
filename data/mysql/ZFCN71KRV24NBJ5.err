@@ -1,0 +1,5 @@
+2019-05-06T15:36:37.116552Z 0 [Warning] InnoDB: New log files created, LSN=45790
+2019-05-06T15:36:37.210557Z 0 [Warning] InnoDB: Creating foreign key constraint system tables.
+2019-05-06T15:36:37.286561Z 0 [Warning] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: bc5526a4-7014-11e9-a3fa-206a8a53881b.
+2019-05-06T15:36:37.292562Z 0 [Warning] Gtid table is not ready to be used. Table 'mysql.gtid_executed' cannot be opened.
+2019-05-06T15:36:38.204614Z 1 [Warning] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.

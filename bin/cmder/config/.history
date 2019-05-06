@@ -1,0 +1,14 @@
+cd blog
+php artisan serve
+Laravel development server started: <http://127.0.0.1:8000>
+php artisan serve --port=9000
+composer config -g repo.packagist composer https://packagist.phpcomposer.com
+cd ..
+cd test\
+php artisan serve
+composer config -g repo.packagist composer https://packagist.phpcomposer.com
+composer config -g repo.packagist composer https://packagist.laravel-china.org
+cd star
+cd ..
+cd start\
+php artisan serve
