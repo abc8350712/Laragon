@@ -1,4 +1,8 @@
 @extends('main')
+@section('title', '| HomePage')
+@section('stylesheets')
+	<link rel="stylesheet" type="text/css" href="styles.css">
+@endsection
 @section('content')
     <div class="container">
 
@@ -54,4 +58,9 @@
       </div>
 
     </div>
+@endsection
+@section('scripts')
+<script>
+	confirm('I loade up some JS');
+</script>
 @endsection
