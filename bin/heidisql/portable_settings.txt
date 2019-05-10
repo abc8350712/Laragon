@@ -84,7 +84,7 @@ Servers\Laragon\SSL_CA<|||>1<|||>
 Servers\Laragon\SSL_Cipher<|||>1<|||>
 Servers\Laragon\RefusedCount<|||>3<|||>4
 Servers\Laragon\ServerVersionFull<|||>1<|||>5.7.24 - MySQL Community Server (GPL)
-Servers\Laragon\ConnectCount<|||>3<|||>6
+Servers\Laragon\ConnectCount<|||>3<|||>7
 Servers\Laragon\ServerVersion<|||>3<|||>50724
-Servers\Laragon\LastConnect<|||>1<|||>2019-05-09 23:49:55
+Servers\Laragon\LastConnect<|||>1<|||>2019-05-11 01:11:01
 Servers\Laragon\lastUsedDB<|||>1<|||>blog
