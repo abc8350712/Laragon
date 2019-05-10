@@ -12,3 +12,32 @@ cd star
 cd ..
 cd start\
 php artisan serve
+php artisan  migrate
+php artisan  migration
+composer update
+composer require laravelcollective/html:5.8.0
+php artisan migrate
+php artisan route:list
+git pull
+cd start\
+cd blog
+git
+php artisan  create::model post -m
+php artisan  make::model post -m
+php artisan make:model Post --migration
+php artisan serve
+git remote
+git pull origin master
+git pull origin
+it push origin master
+git fetch
+git branch
+git origin
+git remote -v
+git push origin develop
+git push origin master
+git push origin master -f
+git push -u origin master -f
+git reset --hard
+git log
+php artisan serve
