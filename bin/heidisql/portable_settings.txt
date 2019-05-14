@@ -82,9 +82,10 @@ Servers\Laragon\SSL_Key<|||>1<|||>
 Servers\Laragon\SSL_Cert<|||>1<|||>
 Servers\Laragon\SSL_CA<|||>1<|||>
 Servers\Laragon\SSL_Cipher<|||>1<|||>
-Servers\Laragon\RefusedCount<|||>3<|||>4
+Servers\Laragon\RefusedCount<|||>3<|||>12
 Servers\Laragon\ServerVersionFull<|||>1<|||>5.7.24 - MySQL Community Server (GPL)
-Servers\Laragon\ConnectCount<|||>3<|||>7
+Servers\Laragon\ConnectCount<|||>3<|||>14
 Servers\Laragon\ServerVersion<|||>3<|||>50724
-Servers\Laragon\LastConnect<|||>1<|||>2019-05-11 01:11:01
-Servers\Laragon\lastUsedDB<|||>1<|||>blog
+Servers\Laragon\LastConnect<|||>1<|||>2019-05-14 21:37:10
+Servers\Laragon\lastUsedDB<|||>1<|||>mysql
+Servers\Laragon\blog|posts\Sort<|||>1<|||>1_title|

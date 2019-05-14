@@ -41,3 +41,9 @@ git push -u origin master -f
 git reset --hard
 git log
 php artisan serve
+php artisan serve
+git reset --hard
+mysql -u -root -p
+git log
+cd ..
+php artisan  serve

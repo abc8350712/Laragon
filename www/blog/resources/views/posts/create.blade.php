@@ -1,6 +1,9 @@
 @extends('main')
 
 @section('title', '| Create New Post')
+@section('stylesheets')
+	{!!	Html::style('css/parsley.css')!!}
+@endsection
 
 @section('content')
 	<div class="row">
@@ -16,4 +19,8 @@
 			{!! Form::close() !!}
 		</div>
 	</div>
+@endsection
+
+@section('scripts')
+{!!Html::script('js/parsley.min.js')!!}
 @endsection

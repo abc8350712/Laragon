@@ -559,12 +559,12 @@
 					<value name="Active" type="long" data="1"/>
 					<value name="Count" type="long" data="1"/>
 				</key>
-				<key name="&lt;Startup&gt;" modified="2019-05-10 01:24:54" build="161206">
+				<key name="&lt;Startup&gt;" modified="2019-05-13 23:43:33" build="161206">
 					<value name="GuiArgs" type="string" data=""/>
-					<value name="Cmd1" type="string" data="* -cur_console:f -cur_console:d:D:\laragon\www\blog cmd /k &quot;%ConEmuDir%\..\init.bat&quot;"/>
-						<value name="Active" type="long" data="2"/>
+					<value name="Cmd1" type="string" data="&gt;* -cur_console:f -cur_console:d:D:\laragon\www\blog cmd /k &quot;%ConEmuDir%\..\init.bat&quot;"/>
+						<value name="Active" type="long" data="1"/>
 					<value name="Count" type="long" data="2"/>
-					<value name="Cmd2" type="string" data="&gt;* -cur_console:f -cur_console:d:D:\laragon\www\blog cmd /k &quot;%ConEmuDir%\..\init.bat&quot;"/>
+					<value name="Cmd2" type="string" data="* -cur_console:f -cur_console:d:D:\laragon\www cmd /k &quot;%ConEmuDir%\..\init.bat&quot;"/>
 				</key>
 			</key>
 			<key name="Apps" modified="2017-01-11 11:22:37" build="161206">
