@@ -23,7 +23,7 @@
 						{!!Html::linkRoute('posts.edit', 'Edit', array($post->id), array('class' => 'btn btn-primary btn-block'))!!}
 					</div>
 					<div class="col-sm-6">
-						<a href="#" class="btn btn-danger btn-block">Delete</a>
+						{!!Html::linkRoute('posts.edit', 'Delete', array($post->id), array('class' => 'btn btn-danger btn-block'))!!}
 					</div>
 				</div>
 			</div>
