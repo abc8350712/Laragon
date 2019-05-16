@@ -25,11 +25,11 @@
 							<tr>
 								<th>{{$post->id}}</th>
 								<td>{{$post->title}}</td>
-								<td>{{$post->body}}</td>
-								<td>{{$post->created_at}}</td>
+								<td>{{substr($post->body, 0, 50)}}{{strlen($post->body)>50?'...':''}}</td>
+								<td>{{date('M j, Y', strtotime($post->created_at))}}</td>
 								<td>
-									<a hred='#' class='btn btn-default'>View</a>
-									<a hred='#' class='btn btn-default'>Edit</a>
+									<a href='{{route('posts.show', $post->id)}}' class='btn btn-default'>View</a>
+									<a href='{{route('posts.edit', $post->id)}}' class='btn btn-default'>Edit</a>
 								</td>
 							</tr>
 						@endforeach
