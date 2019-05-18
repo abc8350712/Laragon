@@ -1,49 +1,5 @@
-cd blog
+cd blog\
 php artisan serve
-Laravel development server started: <http://127.0.0.1:8000>
-php artisan serve --port=9000
-composer config -g repo.packagist composer https://packagist.phpcomposer.com
-cd ..
-cd test\
+ require(): Failed opening required 'D:\laragon\www\blog/vendor/autoload.php'
+composer install
 php artisan serve
-composer config -g repo.packagist composer https://packagist.phpcomposer.com
-composer config -g repo.packagist composer https://packagist.laravel-china.org
-cd star
-cd ..
-cd start\
-php artisan serve
-php artisan  migrate
-php artisan  migration
-composer update
-composer require laravelcollective/html:5.8.0
-php artisan migrate
-php artisan route:list
-git pull
-cd start\
-cd blog
-git
-php artisan  create::model post -m
-php artisan  make::model post -m
-php artisan make:model Post --migration
-php artisan serve
-git remote
-git pull origin master
-git pull origin
-it push origin master
-git fetch
-git branch
-git origin
-git remote -v
-git push origin develop
-git push origin master
-git push origin master -f
-git push -u origin master -f
-git reset --hard
-git log
-php artisan serve
-php artisan serve
-git reset --hard
-mysql -u -root -p
-git log
-cd ..
-php artisan  serve
